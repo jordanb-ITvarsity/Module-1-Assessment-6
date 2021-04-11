@@ -1,0 +1,20 @@
+nav:hover {
+    background-image: linear-gradient(to bottom right, darkblue 30%, rgb(5, 9, 63) );
+    }
+h4{
+    text-align: right;
+    color: gray;
+}
+html{
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 114) 30%, rgb(5, 9, 63) );
+}
+header{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+h1{
+    color: rgba(241, 167, 8, 0.535);
+}
