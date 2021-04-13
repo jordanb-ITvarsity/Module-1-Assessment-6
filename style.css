@@ -1,20 +1,43 @@
-nav:hover {
+/* nav:hover {
     background-image: linear-gradient(to bottom right, darkblue 30%, rgb(5, 9, 63) );
-    }
+    } */
+    nav:hover {
+        background-color: #e3bc9a58;
+        
+        }
 h4{
     text-align: right;
-    color: gray;
+    color: rgba(146, 17, 17, 0.912);
 }
-html{
-    background-image: linear-gradient(to bottom right, rgb(0, 0, 114) 30%, rgb(5, 9, 63) );
-}
+    html{
+    background-image: linear-gradient(to bottom right, rgba(0, 128, 128, 0.898), #eea463);
+} 
+/* html{
+    background-color: teal;
+} */
 header{
     text-align: center;
 }
 a{
     text-decoration: none;
-    color: gray;
+    color: rgba(146, 17, 17, 0.912);
 }
 h1{
-    color: rgba(241, 167, 8, 0.535);
+    color: black;
+    text-align: center;
+} 
+
+#Image{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 70px;
+    font-style: oblique;
+}
+
+p{
+    text-align: center;
 }
