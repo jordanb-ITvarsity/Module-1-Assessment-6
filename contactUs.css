@@ -1,0 +1,18 @@
+body.contact{
+    background: rgb(128,120,120);
+background: linear-gradient(162deg, #5c5757 26%, rgba(84,0,0,1) 96%) ;
+}
+a{
+    text-decoration: none;
+    color: rgba(180, 179, 179, 0.912);
+}
+
+form{
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    width: 350px;px;
+    text-align: left;
+}

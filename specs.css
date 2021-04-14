@@ -1,0 +1,14 @@
+nav.Image{
+    display: inline-block;
+}
+nav.specs{
+    float: right;
+    width: 40%;
+}
+/* html{
+    background-color: #e3bc9ac9;  
+} */
+/* #e3bc9a98 */
+html{
+    background-image: linear-gradient(to bottom right, #d3a175f1, #d58947);
+}

@@ -1,35 +1,36 @@
 /* nav:hover {
     background-image: linear-gradient(to bottom right, darkblue 30%, rgb(5, 9, 63) );
     } */
-    nav:hover {
-        background-color: #e3bc9a58;
-        
-        }
+body.home{
+        background: rgb(102, 100, 100);
+        background: linear-gradient(390deg , rgba(0, 0, 0, 0.898) 10% ,rgb(116, 28, 12) 60%, #635a52) ;
+} 
+
+nav:hover {
+        background-color: #e3bc9a58;       
+}
+
 h4{
     text-align: right;
-    color: rgba(146, 17, 17, 0.912);
+    color: rgba(177, 177, 177, 0.912);
 }
-    html{
-    background-image: linear-gradient(to bottom right, rgba(0, 128, 128, 0.898), #eea463);
-} 
+    
 /* html{
     background-color: teal;
 } */
+
 header{
     text-align: center;
 }
+
 a{
     text-decoration: none;
-    color: rgba(146, 17, 17, 0.912);
+    color: rgba(124, 118, 118, 0.912);
 }
 h1{
     color: black;
     text-align: center;
 } 
-
-#Image{
-    text-align: center;
-}
 
 h2{
     text-align: center;
